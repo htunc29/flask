@@ -50,6 +50,7 @@ Uygulama tarayıcınızda http://127.0.0.1:5000/ adresinde çalışacaktır.
 
 ## 📂 Proje Dosya Yapısı
 asagıdakı agacı kendı sıstemınıze gore duzenlemelısınız. bu sadece ornek olarak verılmıstır.
+
 .
 ├── app.py
 ├── templates/
