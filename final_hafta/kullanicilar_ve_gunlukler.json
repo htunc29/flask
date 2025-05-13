@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "name": "123",
+        "email": "123@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 2,
+        "name": "hakan",
+        "email": "hakan@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 3,
+        "name": "alı",
+        "email": "ali123@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 4,
+        "name": "hakan",
+        "email": "hakan123@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 5,
+        "name": "hakan",
+        "email": "hakanhakan@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 6,
+        "name": "xyz12",
+        "email": "xyz12@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 7,
+        "name": "ahmet",
+        "email": "ahmet123@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 8,
+        "name": "hasan",
+        "email": "hasan@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 9,
+        "name": "arda",
+        "email": "arda11@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 10,
+        "name": "hakan",
+        "email": "hakan12345@gmail.com",
+        "gunlukler": []
+    },
+    {
+        "id": 11,
+        "name": "hakan123456",
+        "email": "hakan123456@gmail.com",
+        "gunlukler": [
+            {
+                "id": 1,
+                "baslik": "yenı",
+                "icerik": "deneme  1234",
+                "kategori": "primary"
+            },
+            {
+                "id": 2,
+                "baslik": "deneme",
+                "icerik": "deneme 123",
+                "kategori": "success"
+            },
+            {
+                "id": 3,
+                "baslik": "sca",
+                "icerik": "qewqeqwe",
+                "kategori": "success"
+            },
+            {
+                "id": 4,
+                "baslik": "deneme2",
+                "icerik": "adasdasdasd",
+                "kategori": "primary"
+            },
+            {
+                "id": 7,
+                "baslik": "sdasd2222222222",
+                "icerik": "asdasd22222222222222222222222555555555555555",
+                "kategori": "İş"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "melek",
+        "email": "melek@gmail.com",
+        "gunlukler": [
+            {
+                "id": 8,
+                "baslik": "okulun ılk gunu",
+                "icerik": "yenı bır okula baslayacagım cok mutluyum. ne zaman buyuyup unıversıtelı oldum :)",
+                "kategori": "Kişisel"
+            },
+            {
+                "id": 9,
+                "baslik": "staj",
+                "icerik": "staj ıcın belgelerı duzenle ve yola cık",
+                "kategori": "İş"
+            },
+            {
+                "id": 10,
+                "baslik": "okul gezısı",
+                "icerik": "bugun trabzon gezısıne hazırım. ve tabıkı cantamda kurabıyelerım var :)",
+                "kategori": "Seyahat"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Sude",
+        "email": "sude@gmail.com",
+        "gunlukler": [
+            {
+                "id": 11,
+                "baslik": "okul gezısı",
+                "icerik": "bugun okulun ilk gunu ",
+                "kategori": "Seyahat"
+            },
+            {
+                "id": 12,
+                "baslik": "deneme",
+                "icerik": "deneme 1",
+                "kategori": "Kişisel"
+            },
+            {
+                "id": 14,
+                "baslik": "deneme5",
+                "icerik": "deneme deneme deneme ",
+                "kategori": "Kişisel"
+            },
+            {
+                "id": 15,
+                "baslik": "deneme1233",
+                "icerik": "deneme deneme deneme",
+                "kategori": "Aile"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "mehmet",
+        "email": "mehmet@gmail.com",
+        "gunlukler": [
+            {
+                "id": 17,
+                "baslik": "yeni gunluk",
+                "icerik": "deneme deneme deneme232482-348-3284-329423-94;dkas';kl",
+                "kategori": "İş"
+            }
+        ]
+    }
+]

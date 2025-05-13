@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2>Günlük Düzenle</h2>
+    <form method="POST" action="{{ url_for('gunluk_duzenle', gunluk_id=gunluk.id) }}">
+        <div class="mb-3">
+            <label for="baslik" class="form-label">Başlık</label>
+            <input type="text" class="form-control" id="baslik" name="baslik" value="{{ gunluk.baslik }}" required>
+        </div>
+        <div class="mb-3">
+            <label for="icerik" class="form-label">İçerik</label>
+            <textarea class="form-control" id="icerik" name="icerik" rows="5" required>{{ gunluk.icerik }}</textarea>
+        </div>
+        <div class="mb-3">
+            <label for="kategori" class="form-label">Kategori</label>
+            <select class="form-control" id="kategori" name="kategori" required>
+                <option value="Kişisel" {% if gunluk.kategori == 'Kişisel' %}selected{% endif %}>Kişisel</option>
+                <option value="İş" {% if gunluk.kategori == 'İş' %}selected{% endif %}>İş</option>
+                <option value="Aile" {% if gunluk.kategori == 'Aile' %}selected{% endif %}>Aile</option>
+                <option value="Seyahat" {% if gunluk.kategori == 'Seyahat' %}selected{% endif %}>Seyahat</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Günlüğü Güncelle</button>
+    </form>
+</div>
+{% endblock %}

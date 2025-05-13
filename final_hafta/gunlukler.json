@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "baslik": "yenı",
+        "icerik": "deneme  1234",
+        "kategori": "primary",
+        "kullanici_id": 11,
+        "kullanici_adi": "hakan123456"
+    },
+    {
+        "id": 2,
+        "baslik": "deneme",
+        "icerik": "deneme 123",
+        "kategori": "success",
+        "kullanici_id": 11,
+        "kullanici_adi": "hakan123456"
+    },
+    {
+        "id": 3,
+        "baslik": "sca",
+        "icerik": "qewqeqwe",
+        "kategori": "success",
+        "kullanici_id": 11,
+        "kullanici_adi": "hakan123456"
+    }
+]
