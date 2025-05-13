@@ -50,20 +50,18 @@ Uygulama tarayıcınızda http://127.0.0.1:5000/ adresinde çalışacaktır.
 
 ## 📂 Proje Dosya Yapısı
 asagıdakı agacı kendı sıstemınıze gore duzenlemelısınız. bu sadece ornek olarak verılmıstır.
-
-.
-├── app.py
-├── templates/
-│   ├── index.html
-│   ├── login.html
-│   ├── register.html
-│   └── dashboard.html
-├── static/
-│   └── style.css
-├── requirements.txt
-└── README.md
-
-
+```
+├── app.py # Ana Python uygulama dosyası
+├── templates/ # HTML şablonlarının bulunduğu klasör
+│ ├── index.html # Anasayfa
+│ ├── login.html # Giriş formu
+│ ├── register.html # Kayıt formu
+│ └── dashboard.html # Kullanıcı kontrol paneli
+├── static/ # Statik dosyalar (CSS, JS, resimler)
+│ └── style.css # Uygulamaya ait stil dosyası
+├── requirements.txt # Gerekli Python paketlerini içeren dosya
+└── README.md # Proje açıklama dosyası
+```
 
 
 
